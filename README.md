@@ -1,9 +1,42 @@
-<h1 align='center'>Seja bem vindo!</h1>
-<br>
+# "O aprendizado é contínuo e o próximo nível nunca será o último" - Rocketseat
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=azotief&show_icons=true&theme=default&count_private=true&hide=issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azotief&layout=compact)](https://github.com/azotief/github-readme-stats)
+## Sobre mim
+Olá, meu nome é **Bruno**, atuo profissionalmente como desenvolvedor de software e eu sou apaixonado por jogos.
 
-<p align='center'>
-  <a href="https://www.linkedin.com/in/brunofeitoza634/" target="_blank" title="LinkedIn"><img height="28" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/linkedin.svg"></a>
+## Stack atual
+![ReactJS](./icons/react.png)
+![TypeScript](./icons/typescript.png)
+![JavaScript](./icons/javascript.png)
+![Angular](./icons/angular.png)
+![CSharp](./icons/csharp.png)
+![DotNet](./icons/dotnet.png)
+
+## Tenho interesse
+![Python](./icons/python.png)
+
+## DevOps
+![Git](./icons/git.png)
+
+## Ferramentas
+![VSCode](./icons/vscode.png)
+
+## Minhas redes
+<a href="https://www.linkedin.com/in/brunofeitoza634/" target="_blank" rel="noopener noreferrer">
+  <img src="./icons/linkedin.png">
+</a>
+
+<a href="https://www.instagram.com/brfeitoza/" target="_blank" rel="noopener noreferrer">
+  <img src="./icons/instagram.png">
+</a>
+
+<hr> <br>
+
+## Github Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azotief&show_icons=true&theme=tokyonight&count_private=true&hide=issues&card_width=500">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azotief&theme=tokyonight&card_width=495">
 </p>
