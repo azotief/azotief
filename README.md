@@ -11,14 +11,20 @@ Olá, meu nome é **Bruno**, atuo profissionalmente como desenvolvedor de softwa
 ![CSharp](./icons/csharp.png)
 ![DotNet](./icons/dotnet.png)
 
+## Estudando
+![Node.js](./icons/nodejs.png)
+![Docker](./icons/docker.png)
+
 ## Tenho interesse
 ![Python](./icons/python.png)
+![Elixir](./icons/elixir.png)
 
 ## DevOps
 ![Git](./icons/git.png)
 
 ## Ferramentas
 ![VSCode](./icons/vscode.png)
+![Visual Studio](./icons/visualstudio.png)
 
 ## Minhas redes
 <a href="https://www.linkedin.com/in/brunofeitoza634/" target="_blank" rel="noopener noreferrer">
