@@ -27,8 +27,8 @@ Olá, meu nome é **Bruno**, atuo profissionalmente como desenvolvedor de softwa
 ![Visual Studio](./icons/visualstudio.png)
 
 ## Minhas redes
-<a href="https://www.linkedin.com/in/brunofeitoza634/" target="_blank" rel="noopener noreferrer" alt="LinkedIn">
-  <img src="./icons/linkedin.png">
+<a href="https://www.linkedin.com/in/brunofeitoza634/" target="_blank" rel="noopener noreferrer">
+  <img src="./icons/linkedin.png" alt="LinkedIn">
 </a>
 
 <a href="https://www.instagram.com/brfeitoza/" target="_blank" rel="noopener noreferrer">
