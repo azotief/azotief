@@ -27,16 +27,16 @@ Olá, meu nome é **Bruno**, atuo profissionalmente como desenvolvedor de softwa
 ![Visual Studio](./icons/visualstudio.png)
 
 ## Minhas redes
-<a href="https://www.linkedin.com/in/brunofeitoza634/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/brunofeitoza634/" target="_blank" rel="noopener noreferrer" alt="LinkedIn">
   <img src="./icons/linkedin.png">
 </a>
 
 <a href="https://www.instagram.com/brfeitoza/" target="_blank" rel="noopener noreferrer">
-  <img src="./icons/instagram.png">
+  <img src="./icons/instagram.png" alt="Instagram">
 </a>
 
 <a href="https://app.rocketseat.com.br/me/bruno-fernando-feitoza-1567173457" target="_blank" rel="noopener noreferrer">
-  <img src="./icons/rocketseat.png">
+  <img src="./icons/rocketseat.png" alt="Rocketseat">
 </a>
 
 <hr> <br>
