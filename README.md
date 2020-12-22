@@ -35,6 +35,10 @@ Olá, meu nome é **Bruno**, atuo profissionalmente como desenvolvedor de softwa
   <img src="./icons/instagram.png">
 </a>
 
+<a href="https://app.rocketseat.com.br/me/bruno-fernando-feitoza-1567173457" target="_blank" rel="noopener noreferrer">
+  <img src="./icons/rocketseat.png">
+</a>
+
 <hr> <br>
 
 ## Github Stats
