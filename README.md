@@ -29,18 +29,19 @@ Olá, meu nome é **Bruno**, atuo profissionalmente como desenvolvedor de softwa
 ## Ferramentas
 ![VSCode](./icons/vscode.svg)
 ![Visual Studio](./icons/visual-studio.svg)
+![Insomnia](./icons/insomnia.svg)
 
 ## Minhas redes
 <a href="https://www.linkedin.com/in/brunofeitoza634/" target="_blank" rel="noopener noreferrer">
-  <img src="./icons/linkedin.png" alt="LinkedIn">
+  <img src="./icons/linkedin.svg" alt="LinkedIn">
 </a>
 
 <a href="https://www.instagram.com/brfeitoza/" target="_blank" rel="noopener noreferrer">
-  <img src="./icons/instagram.png" alt="Instagram">
+  <img src="./icons/instagram.svg" alt="Instagram">
 </a>
 
 <a href="https://app.rocketseat.com.br/me/bruno-fernando-feitoza-1567173457" target="_blank" rel="noopener noreferrer">
-  <img src="./icons/rocketseat.png" alt="Rocketseat">
+  <img src="./icons/rocketseat.svg" alt="Rocketseat">
 </a>
 
 ## Github Stats
