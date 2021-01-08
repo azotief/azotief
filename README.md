@@ -19,10 +19,6 @@ Olá, meu nome é **Bruno**, atuo profissionalmente como desenvolvedor de softwa
 ![Socket.io](./icons/socket-io.svg)
 ![Docker](./icons/docker.svg)
 
-## Tenho interesse
-![Python](./icons/python.svg)
-![Elixir](./icons/elixir.svg)
-
 ## DevOps
 ![Git](./icons/git.svg)
 
