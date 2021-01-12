@@ -12,15 +12,13 @@ Olá, meu nome é **Bruno**, atuo profissionalmente como desenvolvedor de softwa
 ![CSharp](./icons/c-sharp.svg)
 ![DotNet](./icons/dot-net.svg)
 ![AspNet](./icons/asp-net.svg)
+![Git](./icons/git.svg)
 
-## Estudando
+## Tenho interesse
 ![Node.js](./icons/node.svg)
 ![Jest](./icons/jest.svg)
 ![Socket.io](./icons/socket-io.svg)
 ![Docker](./icons/docker.svg)
-
-## DevOps
-![Git](./icons/git.svg)
 
 ## Ferramentas
 ![VSCode](./icons/vscode.svg)
