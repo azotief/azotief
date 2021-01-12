@@ -3,7 +3,7 @@
 ## Sobre mim
 Olá, meu nome é **Bruno**, atuo profissionalmente como desenvolvedor de software e eu sou apaixonado por jogos.
 
-## Stack atual
+## Tenho experiência
 ![ReactJS](./icons/reactjs.svg)
 ![React Native](./icons/react-native.svg)
 ![TypeScript](./icons/typescript.svg)
