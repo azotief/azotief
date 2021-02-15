@@ -26,7 +26,7 @@ Olá, meu nome é **Bruno**, atuo profissionalmente como desenvolvedor de softwa
 ![Insomnia](./icons/insomnia.svg)
 
 ## Minhas redes
-<a href="https://www.linkedin.com/in/brunofeitoza634/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/brfeitoza/" target="_blank" rel="noopener noreferrer">
   <img src="./icons/linkedin.svg" alt="LinkedIn">
 </a>
 
@@ -34,7 +34,7 @@ Olá, meu nome é **Bruno**, atuo profissionalmente como desenvolvedor de softwa
   <img src="./icons/instagram.svg" alt="Instagram">
 </a>
 
-<a href="https://app.rocketseat.com.br/me/bruno-fernando-feitoza-1567173457" target="_blank" rel="noopener noreferrer">
+<a href="https://app.rocketseat.com.br/me/brfeitoza/" target="_blank" rel="noopener noreferrer">
   <img src="./icons/rocketseat.svg" alt="Rocketseat">
 </a>
 
