@@ -41,9 +41,9 @@ Olá, meu nome é **Bruno**, atuo profissionalmente como desenvolvedor de softwa
 ## Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azotief&show_icons=true&theme=tokyonight&count_private=true&hide=issues&card_width=500">
+  <img src="https://github-readme-stats.vercel.app/api?username=brfeitoza&show_icons=true&theme=tokyonight&count_private=true&hide=issues&card_width=500">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azotief&theme=tokyonight&card_width=495">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brfeitoza&theme=tokyonight&card_width=495">
 </p>
