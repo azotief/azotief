@@ -3,6 +3,8 @@
 ## Sobre mim
 Olá, meu nome é **Bruno**, atuo profissionalmente como desenvolvedor de software e eu sou apaixonado por jogos.
 
+Recentemente eu venho criando conteúdo no meu novo perfil no <a href="https://www.instagram.com/brfeitoza.dev/">Instagram</a>. Dá uma passada lá 🚀
+
 ## Tenho experiência
 ![ReactJS](./icons/reactjs.svg)
 ![React Native](./icons/react-native.svg)
@@ -30,7 +32,7 @@ Olá, meu nome é **Bruno**, atuo profissionalmente como desenvolvedor de softwa
   <img src="./icons/linkedin.svg" alt="LinkedIn">
 </a>
 
-<a href="https://www.instagram.com/brfeitoza/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.instagram.com/brfeitoza.dev/" target="_blank" rel="noopener noreferrer">
   <img src="./icons/instagram.svg" alt="Instagram">
 </a>
 
