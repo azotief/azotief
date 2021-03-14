@@ -1,9 +1,9 @@
 # "O aprendizado é contínuo e o próximo nível nunca será o último" - Rocketseat
 
 ## Sobre mim
-Olá, meu nome é **Bruno**, atuo profissionalmente como desenvolvedor de software e eu sou apaixonado por jogos.
+Olá, sou o **Bruno**, atuo profissionalmente como Desenvolvedor Full Stack e sou apaixonado por jogos.
 
-Recentemente eu venho criando conteúdo no meu novo perfil no <a href="https://www.instagram.com/brfeitoza.dev/">Instagram</a>. Dá uma passada lá 🚀
+Tenho um perfil no <a href="https://www.instagram.com/brfeitoza.dev/">Instagram</a> onde eu venho criando conteúdos sobre carreira e programação, dá uma passada lá 🚀
 
 ## Tenho experiência
 ![ReactJS](./icons/reactjs.svg)
@@ -16,36 +16,14 @@ Recentemente eu venho criando conteúdo no meu novo perfil no <a href="https://w
 ![AspNet](./icons/asp-net.svg)
 ![Git](./icons/git.svg)
 
-## Tenho interesse
+## Estudando
+![Next.js](./icons/nextjs.svg)
+![Tailwind](./icons/tailwind.svg)
 ![Node.js](./icons/node.svg)
 ![Jest](./icons/jest.svg)
 ![Socket.io](./icons/socket-io.svg)
 ![Docker](./icons/docker.svg)
 
-## Ferramentas
-![VSCode](./icons/vscode.svg)
-![Visual Studio](./icons/visual-studio.svg)
-![Insomnia](./icons/insomnia.svg)
-
-## Minhas redes
-<a href="https://www.linkedin.com/in/brfeitoza/" target="_blank" rel="noopener noreferrer">
-  <img src="./icons/linkedin.svg" alt="LinkedIn">
-</a>
-
-<a href="https://www.instagram.com/brfeitoza.dev/" target="_blank" rel="noopener noreferrer">
-  <img src="./icons/instagram.svg" alt="Instagram">
-</a>
-
-<a href="https://app.rocketseat.com.br/me/brfeitoza/" target="_blank" rel="noopener noreferrer">
-  <img src="./icons/rocketseat.svg" alt="Rocketseat">
-</a>
-
-## Github Stats
-
-<p align="center">
+<p align="center" style="margin-top: 30px">
   <img src="https://github-readme-stats.vercel.app/api?username=brfeitoza&show_icons=true&theme=tokyonight&count_private=true&hide=issues&card_width=500">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brfeitoza&theme=tokyonight&card_width=495">
 </p>
