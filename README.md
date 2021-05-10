@@ -5,7 +5,7 @@ Olá, sou o **Bruno**, atuo profissionalmente como Desenvolvedor Full Stack e so
 
 Tenho um perfil no <a href="https://www.instagram.com/brfeitoza.dev/">Instagram</a> onde eu venho criando conteúdos sobre carreira e programação, dá uma passada lá 🚀
 
-## Tenho experiência
+## Experiência
 ![ReactJS](./icons/reactjs.svg)
 ![React Native](./icons/react-native.svg)
 ![TypeScript](./icons/typescript.svg)
