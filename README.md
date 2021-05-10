@@ -16,14 +16,6 @@ Tenho um perfil no <a href="https://www.instagram.com/brfeitoza.dev/">Instagram<
 ![AspNet](./icons/asp-net.svg)
 ![Git](./icons/git.svg)
 
-## Estudando
-![Next.js](./icons/nextjs.svg)
-![Tailwind](./icons/tailwind.svg)
-![Node.js](./icons/node.svg)
-![Jest](./icons/jest.svg)
-![Socket.io](./icons/socket-io.svg)
-![Docker](./icons/docker.svg)
-
 <p align="center" style="margin-top: 30px">
   <img src="https://github-readme-stats.vercel.app/api?username=brfeitoza&show_icons=true&theme=tokyonight&count_private=true&hide=issues&card_width=500">
 </p>
