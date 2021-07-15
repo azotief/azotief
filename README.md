@@ -1,4 +1,4 @@
-# "O aprendizado é contínuo e o próximo nível nunca será o último" - Rocketseat
+# Never Stop Learning!
 
 ## Sobre mim
 Olá, sou o **Bruno**, atuo profissionalmente como Desenvolvedor Full Stack e sou apaixonado por jogos.
